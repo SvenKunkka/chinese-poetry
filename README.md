@@ -21,6 +21,14 @@
   </a>
 </p>
 
+## English Overview
+
+`chinese-poetry` is an open database of classical Chinese literature distributed as structured JSON. The collection includes approximately 55,000 Tang poems, 260,000 Song poems, 21,000 Song ci works, and other classical anthologies, with records covering roughly 14,000 poets and 1,500 ci authors.
+
+The project makes large public-domain literary collections easier to search, analyze, teach, and reuse in software. Data is organized by collection and can be consumed directly by applications, research scripts, educational tools, and natural-language-processing projects. Because the material was gathered from multiple online sources over time, users should validate individual records against authoritative editions when textual accuracy is critical.
+
+The repository is licensed under the MIT License. See the Chinese documentation below for dataset directories, analysis examples, related projects, and contribution guidance.
+
 
 最全的中华古典文集数据库，包含 5.5 万首唐诗、26 万首宋诗、2.1 万首宋词和其他古典文集。诗人包括唐宋两朝近 1.4 万古诗人，和两宋时期 1.5 千古词人。数据来源于互联网。
 
