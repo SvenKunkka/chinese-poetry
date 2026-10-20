@@ -1,3 +1,7 @@
+<!-- SVENKUNKKA-README-NAV:BEGIN -->
+[中文项目说明](#project-overview-zh) · [English overview](#project-overview-en) · [维护者 X / Maintainer on X](https://x.com/Svenu1s5)
+<!-- SVENKUNKKA-README-NAV:END -->
+
 <p align="center">
   <a href="https://github.com/chinese-poetry/chinese-poetry">
       <img src="https://avatars3.githubusercontent.com/u/30764933?s=200&v=4" alt="chinese-poetry">
@@ -135,3 +139,32 @@ The repository is licensed under the MIT License. See the Chinese documentation 
 ## License
 
 [MIT](https://github.com/chinese-poetry/chinese-poetry/blob/master/LICENSE) 许可证。
+
+
+---
+
+<!-- SVENKUNKKA-PROJECT-INFO:BEGIN -->
+
+<a id="project-overview-zh"></a>
+## 中文项目说明
+
+[chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) 的分支，以 JSON 提供唐诗、宋诗、宋词及其他中华古典文集，便于检索、教学、数据分析和诗词应用开发。原始整理工作归上游及贡献者。
+
+**使用入口：** 从 [json](json/)、[ci](ci/) 及 README 的数据集目录选择文集，直接读取 JSON；README 同时提供分析示例和贡献入口。
+
+**范围说明：** 资料采集自互联网；对文本准确性有要求时，应逐条对照权威版本，不把数据集规模或完整性当作逐篇校勘保证。
+
+<a id="project-overview-en"></a>
+## English project overview
+
+A fork of [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry), distributing Tang and Song poetry, Song ci and other classical Chinese collections as JSON for search, teaching, analysis and literary applications. Original compilation belongs to upstream and its contributors.
+
+**Getting started:** Choose collections from [json](json/), [ci](ci/) and the README dataset index, then read the JSON directly. The README also links analysis examples and contribution guidance.
+
+**Scope:** Material was collected online. Check individual texts against authoritative editions when accuracy matters; collection size is not a guarantee that every text has been critically verified.
+
+**本 Fork 的维护者 / Maintainer of this fork:** [SvenKunkka](https://github.com/SvenKunkka) · [X / Twitter](https://x.com/Svenu1s5)
+
+**上游项目 / Upstream:** [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)。保留原作者署名与原许可证 / Original authorship and license notices are retained.
+
+<!-- SVENKUNKKA-PROJECT-INFO:END -->
